@@ -2,7 +2,7 @@
     "name": "hby6888/alidayu",
     "description": "composer require hby6888/alidayu",
     "type": "library",
-    "version":"1.0.1.0"
+    "version":"1.0.1.0",
     "license": "MIT",
     "authors": [
         {
