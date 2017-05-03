@@ -3,6 +3,7 @@
    {
    "name": "hby6888/alidayu",
     "description": "A short description of what your package does",
+     "license": "MIT",
     "require": {
         "php": "^5.3.3 || ^7.0",
         "another-vendor/package": "1.*"
