@@ -1,5 +1,5 @@
 <?php
-namespace top;
+namespace alidayu;
 use \think\Config;
 class Sms{
 	public static function sendCode($name,$tel,$code,$num) {
