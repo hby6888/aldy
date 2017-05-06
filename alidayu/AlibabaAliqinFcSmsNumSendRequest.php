@@ -1,5 +1,5 @@
 <?php
-namespace top;
+namespace alidayu;
 /**
  * TOP API: alibaba.aliqin.fc.sms.num.send request
  * 
