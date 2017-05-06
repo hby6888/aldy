@@ -1,5 +1,5 @@
 <?php
-namespace top;
+namespace alidayu;
 /**
  * 返回的默认类
  * 
