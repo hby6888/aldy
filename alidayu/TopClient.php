@@ -1,5 +1,5 @@
 <?php
-namespace top;
+namespace alidayu;
 class TopClient{
 	public $appkey;
 	public $secretKey;
